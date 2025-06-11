@@ -8,6 +8,7 @@ public class LoopExercises {
         for(int i = 1; i <= n; i++){
             total += i;
         }
+        System.out.println(sum(5));
         return total;
     }
 
